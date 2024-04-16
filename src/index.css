@@ -1,13 +1,59 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  align-items: center;
+  justify-content: center;
+  background-color: blanchedalmond;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.contained {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.get {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.todoo {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.lister {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.tag {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-family: cursive;
+}
+
+.OrderList {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.selection {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.paa {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+h5 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
